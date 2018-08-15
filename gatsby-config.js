@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Ronan Amicel',
+    description: 'Site personnel de Ronan Amicel',
+    keywords: 'Ronan Amicel, home page, blog',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
