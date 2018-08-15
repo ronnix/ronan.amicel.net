@@ -1,0 +1,45 @@
+.layout {
+    max-width: 66.875rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.layout:after, .layout:before {
+    content: "";
+    display: table;
+}
+
+.layout:after {
+    clear: both;
+}
+
+.main {
+    padding: 0 2.1875rem 2.5rem 2.1875rem;
+    margin-top: 1.5rem;
+}
+
+.sidebar {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #CCC;
+    margin: 0 1.125rem;
+}
+
+@media screen and (min-width: 960px) {
+
+    .main {
+        float: left;
+        clear: none;
+        width: calc(99.9% * 2/3 - 0.625rem);
+        padding-top: 2.5rem;
+    }
+
+    .sidebar {
+        float: left;
+        clear: both;
+        width: calc(99.9% * 1/3 - 1.25rem);
+        border-bottom: none;
+        border-right: 1px solid #CCC;
+        margin: 0 1.875rem 0 0;
+    }
+
+}
