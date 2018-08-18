@@ -25,10 +25,6 @@
     margin: 0;
 }
 
-.links {
-    margin-top: 1rem;
-}
-
 .links ul {
     list-style: none;
     margin: 0.35rem 0;
@@ -55,6 +51,35 @@
 .links li a i {
     font-size: 0.875rem;
     color: #555;
+}
+
+.links, .menu {
+    margin: 1.25rem 0 0 0;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+}
+
+.menu li {
+    margin: 0.625rem 0;
+}
+
+.menu a {
+    color: #222;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.menu a.active {
+    border-bottom: 1px solid #222;
+}
+
+.menu a:hover {
+    text-decoration: none;
+    color: #2a6496;
+    border-bottom: 1px solid #2a6496;
 }
 
 @media screen and (min-width: 960px) {

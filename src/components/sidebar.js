@@ -19,6 +19,11 @@ const Sidebar = () => (
         <li><a href="https://github.com/ronnix" title="GitHub"><i className="icon-github" alt="GitHub" /></a></li>
       </ul>
     </section>
+    <nav className={styles.menu}>
+      <ul>
+        <li><Link to="/articles/" exact activeClassName={styles.active}>Articles</Link></li>
+      </ul>
+    </nav>
   </header>
 )
 

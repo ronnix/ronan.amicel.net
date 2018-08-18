@@ -30,7 +30,6 @@
         float: left;
         clear: none;
         width: calc(99.9% * 2/3 - 0.625rem);
-        padding-top: 2.5rem;
     }
 
     .sidebar {
