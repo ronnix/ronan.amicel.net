@@ -25,9 +25,44 @@
     margin: 0;
 }
 
+.links {
+    margin-top: 1rem;
+}
+
+.links ul {
+    list-style: none;
+    margin: 0.35rem 0;
+    display: flex;
+    justify-content: center;
+
+}
+
+.links li {
+    padding: 0;
+    margin: 0 0.1875rem;
+    height: 24px;
+    width: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+}
+
+.links li a {
+    display: block;
+    background: #ebebeb;
+    border-radius: 0.1875rem;
+}
+
+.links li a i {
+    font-size: 0.875rem;
+    color: #555;
+}
+
 @media screen and (min-width: 960px) {
     .sidebar {
         text-align: left;
         padding: 0 2.5rem;
+    }
+    .links ul {
+        justify-content: flex-start;
     }
 }
