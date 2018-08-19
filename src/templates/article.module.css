@@ -1,0 +1,36 @@
+.article header h1 {
+    margin-bottom: 0.75rem;
+}
+
+.article header nav {
+    color: #777;
+    /*margin-bottom: 1.56rem;*/
+    display: inline-block;
+}
+
+.article header ul {
+    list-style: none;
+    margin: 0;
+    display: inline-block;
+}
+
+.article header ul:after {
+    content: "—";
+}
+
+.article header li {
+    display: inline-block;
+    padding-right: 0.5rem;
+    text-transform: lowercase;
+}
+
+.article header li:before {
+    content: "#";
+}
+
+.article header time {
+    display: inline-block;
+    color: #777;
+    margin-bottom: 1.56rem;
+    margin-left: 0.5rem;
+}

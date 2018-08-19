@@ -1,12 +1,26 @@
 import React from "react";
 
+import moment from 'moment';
+
+import styles from './article.module.css'
+
 export default ({ data }) => {
   const post = data.markdownRemark;
   return (
-    <div>
-      <h1>{post.frontmatter.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: post.html }} />
-    </div>
+    <article className={styles.article}>
+      <header>
+        <h1>{post.frontmatter.title}</h1>
+        <nav>
+          <ul>
+            {post.frontmatter.tags.map((tag) => <li key={tag} className={styles.tag}>{tag}</li>)}
+          </ul>
+        </nav>
+        <time dateTime={post.frontmatter.date}>
+          {moment(post.frontmatter.date).locale('fr').format('LL')}
+        </time>
+      </header>
+      <section dangerouslySetInnerHTML={{ __html: post.html }} />
+    </article>
   );
 };
 
@@ -16,6 +30,8 @@ export const query = graphql`
       html
       frontmatter {
         title
+        date
+        tags
       }
     }
   }
