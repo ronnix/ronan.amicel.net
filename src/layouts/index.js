@@ -5,6 +5,9 @@ import Helmet from 'react-helmet'
 import Sidebar from '../components/sidebar'
 import './index.css'
 
+// Styles for code syntax highlighting
+require('prismjs/themes/prism.css')
+
 const Layout = ({ children, data }) => (
   <div className="layout">
     <Helmet
