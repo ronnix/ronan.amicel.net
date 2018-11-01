@@ -1,8 +1,9 @@
 import React from 'react'
-import Link from 'gatsby-link'
+import { Link } from 'gatsby'
+import Layout from "../components/layout"
 
 const IndexPage = () => (
-  <div>
+  <Layout>
     <h1>Bonjour l’internet&nbsp;!</h1>
     <p>Vous trouverez ici&nbsp;:</p>
     <ul>
@@ -20,7 +21,7 @@ const IndexPage = () => (
         <li>une invitation à travailler ensemble&nbsp;;</li>
         <li>et peut-être d’autres choses encore...</li>
     </ul>
-  </div>
+  </Layout>
 )
 
 export default IndexPage

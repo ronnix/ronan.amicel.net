@@ -1,9 +1,10 @@
 const path = require(`path`);
+const { graphql } = require(`gatsby`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
 // Add an URL slugs to each Markdown file
-exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
-  const { createNodeField } = boundActionCreators
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions
   if (node.internal.type === `MarkdownRemark`) {
     let slug = createFilePath({ node, getNode, basePath: `pages` })
     if (typeof node.frontmatter.path !== 'undefined') {
@@ -18,8 +19,8 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
 };
 
 // Create a page for each Markdown file
-exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
   return new Promise((resolve, reject) => {
     graphql(`
       {

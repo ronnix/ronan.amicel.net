@@ -1,9 +1,9 @@
 import React from 'react'
-import Link from 'gatsby-link'
+import { Link } from 'gatsby'
 
 import styles from './sidebar.module.css'
 
-import '../assets/fonts/fontello-771c82e0/css/fontello.css';
+import '../assets/fonts/fontello-771c82e0/css/fontello.css'
 
 const Sidebar = () => (
   <header className={styles.sidebar}>
@@ -21,7 +21,7 @@ const Sidebar = () => (
     </section>
     <nav className={styles.menu}>
       <ul>
-        <li><Link to="/articles/" exact activeClassName={styles.active}>Articles</Link></li>
+        <li><Link to="/articles/" activeClassName={styles.active}>Articles</Link></li>
       </ul>
     </nav>
   </header>
