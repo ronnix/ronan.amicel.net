@@ -3,6 +3,7 @@ module.exports = {
     title: 'Ronan Amicel',
     description: 'Site personnel de Ronan Amicel',
     keywords: 'Ronan Amicel, home page, blog',
+    siteUrl: `https://ronan.amicel.net/`,
   },
   plugins: [
     {
@@ -53,5 +54,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography.js`,
       },
     },
+    'gatsby-plugin-feed',
   ],
 }

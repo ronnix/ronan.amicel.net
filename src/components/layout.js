@@ -29,6 +29,11 @@ export default ({ children }) => (
             { name: 'description', content: data.site.siteMetadata.description },
             { name: 'keywords', content: data.site.siteMetadata.keywords },
           ]}
+          link={{
+            rel: 'alternate',
+            type: 'application/rss+xml',
+            href: '/rss.xml',
+          }}
         />
         <div>
           <div className="sidebar">
