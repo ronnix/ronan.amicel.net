@@ -2,7 +2,7 @@ const path = require(`path`);
 const { graphql } = require(`gatsby`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
-// Add an URL slugs to each Markdown file
+// Add an URL slug to each Markdown file
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   if (node.internal.type === `MarkdownRemark`) {

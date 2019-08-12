@@ -11,7 +11,7 @@ export default ({
     allMarkdownRemark: { edges },
   },
 }) => {
-  const posts = edges.filter(edge => edge.node.fields.slug.startsWith('/articles/'))
+  const posts = edges.filter(edge => edge.node.fields.slug.startsWith('/recettes/'))
   return <Layout>
     <div className={styles.articles}>
       {posts.map(({ node }) => (

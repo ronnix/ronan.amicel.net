@@ -22,6 +22,7 @@ const Sidebar = () => (
     <nav className={styles.menu}>
       <ul>
         <li><Link to="/articles/" activeClassName={styles.active}>Articles</Link></li>
+        <li><Link to="/recettes/" activeClassName={styles.active}>Recettes</Link></li>
       </ul>
     </nav>
   </header>

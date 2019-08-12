@@ -8,6 +8,7 @@ const IndexPage = () => (
     <p>Vous trouverez ici&nbsp;:</p>
     <ul>
         <li>tous mes <Link to="/articles/">articles</Link> de blog (certains en français et d’autres en anglais)&nbsp;;</li>
+        <li>des <Link to="/recettes/">recettes</Link> de cuisine&nbsp;;</li>
         <li>les liens pour me retrouver sur
             <a href="https://twitter.com/amicel" title="Twitter"><i className="icon-twitter" alt="Twitter" /></a>,
             <a href="https://www.linkedin.com/in/ronanamicel" title="LinkedIn"><i className="icon-linkedin" alt="LinkedIn" /></a>, ou encore

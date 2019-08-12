@@ -13,11 +13,13 @@ export default ({ data }) => {
       <article className={styles.article}>
         <header>
           <h1>{post.frontmatter.title}</h1>
-          <nav>
-            <ul>
-              {post.frontmatter.tags.map((tag) => <li key={tag} className={styles.tag}>{tag}</li>)}
-            </ul>
-          </nav>
+          {post.frontmatter.tags &&
+            <nav>
+              <ul>
+                {post.frontmatter.tags.map((tag) => <li key={tag} className={styles.tag}>{tag}</li>)}
+              </ul>
+            </nav>
+          }
           <time dateTime={post.frontmatter.date}>
             {moment(post.frontmatter.date).locale('fr').format('LL')}
           </time>

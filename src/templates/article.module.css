@@ -6,6 +6,7 @@
     color: #777;
     /*margin-bottom: 1.56rem;*/
     display: inline-block;
+    margin-right: 0.5rem;
 }
 
 .article header ul {
@@ -32,5 +33,4 @@
     display: inline-block;
     color: #777;
     margin-bottom: 1.56rem;
-    margin-left: 0.5rem;
 }
