@@ -4,7 +4,7 @@ import Layout from "../../components/layout"
 
 import moment from 'moment';
 
-import styles from './index.module.css'
+import { article, articles } from './index.module.css'
 
 export default ({
   data: {
@@ -13,9 +13,9 @@ export default ({
 }) => {
   const posts = edges.filter(edge => edge.node.fields.slug.startsWith('/recettes/'))
   return <Layout>
-    <div className={styles.articles}>
+    <div className={articles}>
       {posts.map(({ node }) => (
-        <div className={styles.article} key={node.id}>
+        <div className={article} key={node.id}>
           <time dateTime={node.frontmatter.date}>
             {moment(node.frontmatter.date).locale('fr').format('LL')}
           </time>

@@ -4,19 +4,19 @@ import Layout from "../components/layout"
 
 import moment from 'moment';
 
-import styles from './article.module.css'
+import { article, tag } from './article.module.css'
 
 export default ({ data }) => {
   const post = data.markdownRemark;
   return (
     <Layout>
-      <article className={styles.article}>
+      <article className={article}>
         <header>
           <h1>{post.frontmatter.title}</h1>
           {post.frontmatter.tags &&
             <nav>
               <ul>
-                {post.frontmatter.tags.map((tag) => <li key={tag} className={styles.tag}>{tag}</li>)}
+                {post.frontmatter.tags.map((tag) => <li key={tag} className={tag}>{tag}</li>)}
               </ul>
             </nav>
           }

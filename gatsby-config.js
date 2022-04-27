@@ -64,5 +64,10 @@ module.exports = {
       },
     },
     'gatsby-plugin-feed',
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+      },
+    },
   ],
 }
