@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ronan Amicel]]></title><description><![CDATA[Site personnel de Ronan Amicel]]></description><link>https://ronan.amicel.net</link><generator>RSS for Node</generator><lastBuildDate>Mon, 12 Aug 2019 16:07:43 GMT</lastBuildDate><item><title><![CDATA[Œufs au lait]]></title><description><![CDATA[J'ai pas mal itéré sur différents paramètres (proportions, durée de cuisson...) avant d'arriver à avoir un résultat qui me convienne. Voici…]]></description><link>https://ronan.amicel.net/recettes/oeufs-au-lait/</link><guid isPermaLink="false">https://ronan.amicel.net/recettes/oeufs-au-lait/</guid><pubDate>Sun, 30 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;J&apos;ai pas mal itéré sur différents paramètres (proportions, durée de cuisson...) avant d&apos;arriver à avoir un résultat qui me convienne. Voici la version actuelle (5.0) de ma recette. À suivre...&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ronan Amicel]]></title><description><![CDATA[Site personnel de Ronan Amicel]]></description><link>https://ronan.amicel.net</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Apr 2022 08:59:45 GMT</lastBuildDate><item><title><![CDATA[Œufs au lait]]></title><description><![CDATA[J'ai pas mal itéré sur différents paramètres (proportions, durée de cuisson...) avant d'arriver à avoir un résultat qui me convienne. Voici…]]></description><link>https://ronan.amicel.net/recettes/oeufs-au-lait/</link><guid isPermaLink="false">https://ronan.amicel.net/recettes/oeufs-au-lait/</guid><pubDate>Sun, 30 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;J&apos;ai pas mal itéré sur différents paramètres (proportions, durée de cuisson...) avant d&apos;arriver à avoir un résultat qui me convienne. Voici la version actuelle (5.0) de ma recette. À suivre...&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Ingrédients :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;1 litre de lait entier bio microfiltré (Monoprix)&lt;/li&gt;
@@ -14,32 +14,34 @@
 &lt;p&gt;Je prolonge jusqu’à 56-60 minutes. Ça a l’air bon. Je les sors et je les laisse refroidir à température ambiante. Plus tard je mets les couvercles et je les mets au frigo.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2ce26b8fd275acf2ba2d7d75ca748ec0/243ce/2019-06-30-oeufs-au-lait.jpg&quot;
+    href=&quot;/static/2ce26b8fd275acf2ba2d7d75ca748ec0/d2602/2019-06-30-oeufs-au-lait.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAFflJtGcn//xAAcEAEAAgEFAAAAAAAAAAAAAAABAAIDBBESFDH/2gAIAQEAAQUCqCcSPpqGp2rS2Xd//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAgBAgEBPwFyzD//xAAZEAEBAAMBAAAAAAAAAAAAAAAAEQExMoH/2gAIAQEABj8CzI9cpGlj/8QAGxABAQEAAgMAAAAAAAAAAAAAAREAIWExQVH/2gAIAQEAAT8haAA8ZvKemRVt60ixS/Tcqrk97//aAAwDAQACAAMAAAAQmz//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QEy2//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QQz//xAAdEAEAAgIDAQEAAAAAAAAAAAABESEAQTFxgVHR/9oACAEBAAE/ELkKoLZYN++4qwtGvneEMyY1CO8jp5Fa1H5iYQGycnmSYbXH/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/9oADAMBAAIQAxAAAAFfkptWcn//xAAcEAEAAgEFAAAAAAAAAAAAAAABAAIDBBESFDH/2gAIAQEAAQUCrsnEj6ahDs2jlV//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/Acyp/8QAGhAAAgIDAAAAAAAAAAAAAAAAABEBEDEygf/aAAgBAQAGPwKcHTUSpo//xAAaEAEAAgMBAAAAAAAAAAAAAAABACERMUFh/9oACAEBAAE/ISoADVR11xyK2SvlTFwi/NuYxVn2f//aAAwDAQACAAMAAAAQuz//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QEy2//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QUZ//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhQZFRcYHR/9oACAEBAAE/EK47qBbbRe+N+xTpa6shBmmryJlwsV9V+RdEhyeeoYF1VU//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Œufs au lait sortant du four&quot;
         title=&quot;Œufs au lait sortant du four&quot;
-        src=&quot;/static/2ce26b8fd275acf2ba2d7d75ca748ec0/a296c/2019-06-30-oeufs-au-lait.jpg&quot;
-        srcset=&quot;/static/2ce26b8fd275acf2ba2d7d75ca748ec0/f544b/2019-06-30-oeufs-au-lait.jpg 200w,
-/static/2ce26b8fd275acf2ba2d7d75ca748ec0/41689/2019-06-30-oeufs-au-lait.jpg 400w,
-/static/2ce26b8fd275acf2ba2d7d75ca748ec0/a296c/2019-06-30-oeufs-au-lait.jpg 800w,
-/static/2ce26b8fd275acf2ba2d7d75ca748ec0/c35de/2019-06-30-oeufs-au-lait.jpg 1200w,
-/static/2ce26b8fd275acf2ba2d7d75ca748ec0/8179c/2019-06-30-oeufs-au-lait.jpg 1600w,
-/static/2ce26b8fd275acf2ba2d7d75ca748ec0/243ce/2019-06-30-oeufs-au-lait.jpg 4032w&quot;
+        src=&quot;/static/2ce26b8fd275acf2ba2d7d75ca748ec0/4b190/2019-06-30-oeufs-au-lait.jpg&quot;
+        srcset=&quot;/static/2ce26b8fd275acf2ba2d7d75ca748ec0/e07e9/2019-06-30-oeufs-au-lait.jpg 200w,
+/static/2ce26b8fd275acf2ba2d7d75ca748ec0/066f9/2019-06-30-oeufs-au-lait.jpg 400w,
+/static/2ce26b8fd275acf2ba2d7d75ca748ec0/4b190/2019-06-30-oeufs-au-lait.jpg 800w,
+/static/2ce26b8fd275acf2ba2d7d75ca748ec0/e5166/2019-06-30-oeufs-au-lait.jpg 1200w,
+/static/2ce26b8fd275acf2ba2d7d75ca748ec0/b17f8/2019-06-30-oeufs-au-lait.jpg 1600w,
+/static/2ce26b8fd275acf2ba2d7d75ca748ec0/d2602/2019-06-30-oeufs-au-lait.jpg 4032w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Développeur :  ce qu’on ne m’a pas appris à l’école]]></title><description><![CDATA[Le 22 mai 2019, j’ai eu le plaisir de venir faire une présentation
@@ -86,32 +88,34 @@ support suivant :&lt;/p&gt;
 &lt;p&gt;Laisser refroidir sur une grille avant de déguster.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1fb00f528d2f7d2195441f54de35d2d1/f5b23/2019-05-26-cookies.jpg&quot;
+    href=&quot;/static/1fb00f528d2f7d2195441f54de35d2d1/01fc7/2019-05-26-cookies.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAXmSWNC20f/EABsQAAEEAwAAAAAAAAAAAAAAAAIAARESBCIx/9oACAEBAAEFAosNtXx2QWJceCX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BkY//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Bta//xAAcEAADAAEFAAAAAAAAAAAAAAAAARECISIxQYH/2gAIAQEABj8CTXrGsuzbYPSIiOT/xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhcTGB/9oACAEBAAE/IXD8euIdH6LbTobSkMVHqqN+nLw//9oADAMBAAIAAwAAABBrL//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EDL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAURH/2gAIAQIBAT8Qi3X/xAAcEAEBAAIDAQEAAAAAAAAAAAABEQAhMUFhcZH/2gAIAQEAAT8QETXobE8crVFGqQT5jiiClBPN4xXxGo9/uA2jK6MuryPHDP/Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAXmSWNC20f/EABsQAAEEAwAAAAAAAAAAAAAAAAIAARESBCIx/9oACAEBAAEFAosNtXx2QWJceCX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BkY//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8Bta//xAAcEAADAAEFAAAAAAAAAAAAAAAAARECISIxQYH/2gAIAQEABj8CTXrGsuzbYPSIiOT/xAAcEAADAQACAwAAAAAAAAAAAAABESEAMUFxgZH/2gAIAQEAAT8hh8NNkLH2zr+jFSCIHjUSJ51uvjf/2gAMAwEAAgADAAAAEGsv/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QMP/EABYRAQEBAAAAAAAAAAAAAAAAAABREf/aAAgBAgEBPxCLdf/EABwQAQEAAgMBAQAAAAAAAAAAAAERACExQWGBkf/aAAgBAQABPxBImvQ2J45WqKNUg/McUSKUE83jFXEaj3+4DaMroy6eR44Z/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;De délicieux cookies en train de refroidir&quot;
         title=&quot;De délicieux cookies en train de refroidir&quot;
-        src=&quot;/static/1fb00f528d2f7d2195441f54de35d2d1/a296c/2019-05-26-cookies.jpg&quot;
-        srcset=&quot;/static/1fb00f528d2f7d2195441f54de35d2d1/f544b/2019-05-26-cookies.jpg 200w,
-/static/1fb00f528d2f7d2195441f54de35d2d1/41689/2019-05-26-cookies.jpg 400w,
-/static/1fb00f528d2f7d2195441f54de35d2d1/a296c/2019-05-26-cookies.jpg 800w,
-/static/1fb00f528d2f7d2195441f54de35d2d1/c35de/2019-05-26-cookies.jpg 1200w,
-/static/1fb00f528d2f7d2195441f54de35d2d1/8179c/2019-05-26-cookies.jpg 1600w,
-/static/1fb00f528d2f7d2195441f54de35d2d1/f5b23/2019-05-26-cookies.jpg 3200w&quot;
+        src=&quot;/static/1fb00f528d2f7d2195441f54de35d2d1/4b190/2019-05-26-cookies.jpg&quot;
+        srcset=&quot;/static/1fb00f528d2f7d2195441f54de35d2d1/e07e9/2019-05-26-cookies.jpg 200w,
+/static/1fb00f528d2f7d2195441f54de35d2d1/066f9/2019-05-26-cookies.jpg 400w,
+/static/1fb00f528d2f7d2195441f54de35d2d1/4b190/2019-05-26-cookies.jpg 800w,
+/static/1fb00f528d2f7d2195441f54de35d2d1/e5166/2019-05-26-cookies.jpg 1200w,
+/static/1fb00f528d2f7d2195441f54de35d2d1/b17f8/2019-05-26-cookies.jpg 1600w,
+/static/1fb00f528d2f7d2195441f54de35d2d1/01fc7/2019-05-26-cookies.jpg 3200w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
@@ -147,8 +151,7 @@ support suivant :&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Dans sa présentation, Thierry a abordé :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;les inconvénients des branches à longue durée de vie :&lt;/p&gt;
+&lt;li&gt;les inconvénients des branches à longue durée de vie :
 &lt;ul&gt;
 &lt;li&gt;elles retardent le feedback,&lt;/li&gt;
 &lt;li&gt;elles retardent l&apos;intégration,&lt;/li&gt;
@@ -159,15 +162,13 @@ support suivant :&lt;/p&gt;
 &lt;li&gt;elles créent du travail supplémentaire (brancher, rebaser, merger…),&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;les avantages  du &lt;em&gt;trunk-based development&lt;/em&gt; :&lt;/p&gt;
+&lt;li&gt;les avantages  du &lt;em&gt;trunk-based development&lt;/em&gt; :
 &lt;ul&gt;
 &lt;li&gt;commits plus fréquents sur master → builds plus fréquents → déploiements plus fréquents → time-to-market réduit → expérimentation plus facile&lt;/li&gt;
 &lt;li&gt;builds plus fréquents → les problèmes sont détectés plus tôt → la qualité est améliorée&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;comment faire du &lt;em&gt;trunk-based development&lt;/em&gt; :&lt;/p&gt;
+&lt;li&gt;comment faire du &lt;em&gt;trunk-based development&lt;/em&gt; :
 &lt;ul&gt;
 &lt;li&gt;l&apos;application est toujours prête à être livrée sur la branche principale,&lt;/li&gt;
 &lt;li&gt;découper les gros changements en petits morceaux incrémentaux,&lt;/li&gt;
@@ -176,12 +177,10 @@ support suivant :&lt;/p&gt;
 &lt;li&gt;utiliser les &lt;em&gt;feature toggles&lt;/em&gt; (mais en dernier recours)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;comment remplacer la revue de code  ?&lt;/p&gt;
+&lt;li&gt;comment remplacer la revue de code  ?
 &lt;ul&gt;
 &lt;li&gt;le &lt;em&gt;pair programming&lt;/em&gt; est une solution possible (revue de code continue &lt;em&gt;pre-commit&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;on peut aussi faire une revue de code &lt;em&gt;post-commit&lt;/em&gt;&lt;/p&gt;
+&lt;li&gt;on peut aussi faire une revue de code &lt;em&gt;post-commit&lt;/em&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;pre-merge&lt;/em&gt; :  &lt;em&gt;pull requests&lt;/em&gt; fréquentes sur des branches à durée de vie courte&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;post-merge&lt;/em&gt; : revue de code de tous les commits poussés sur &lt;em&gt;master&lt;/em&gt;&lt;/li&gt;
@@ -189,8 +188,7 @@ support suivant :&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;au delà des raisons invoquées explicitement, quels sont les peurs qui font qu&apos;une équipe peut résister à l&apos;adoption de ce modèle ?&lt;/p&gt;
+&lt;li&gt;au delà des raisons invoquées explicitement, quels sont les peurs qui font qu&apos;une équipe peut résister à l&apos;adoption de ce modèle ?
 &lt;ul&gt;
 &lt;li&gt;les développeurs ne savent pas développer par petits incréments → c&apos;est une compétence encore trop rare, qui doit s&apos;acquérir&lt;/li&gt;
 &lt;li&gt;la base de code est trop couplée, et manque de tests → c&apos;est difficile de changer quoi que ce soit sans craindre de casser quelque chose&lt;/li&gt;
@@ -303,8 +301,7 @@ support suivant :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;les conférences annuelles &lt;a href=&quot;https://www.pycon.fr/&quot;&gt;PyCon FR&lt;/a&gt; et &lt;a href=&quot;http://pyparis.org/&quot;&gt;PyParis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;le meetup &lt;a href=&quot;https://www.meetup.com/fr-FR/Paris-py-Python-Django-friends/&quot;&gt;Paris.py&lt;/a&gt; ou &lt;a href=&quot;https://www.afpy.org/communaute&quot;&gt;celui de votre ville&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;les événements dédiés au recrutement :&lt;/p&gt;
+&lt;li&gt;les événements dédiés au recrutement :
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://remixjobs.com/remixjobsday&quot;&gt;RemixJobs Day&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.techdoors.io/recruteurs/&quot;&gt;TechDoors&lt;/a&gt;&lt;/li&gt;
@@ -313,24 +310,21 @@ support suivant :&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Les sites où diffuser une annonce&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;les job boards dédiés à &lt;strong&gt;Python&lt;/strong&gt; :&lt;/p&gt;
+&lt;li&gt;les job boards dédiés à &lt;strong&gt;Python&lt;/strong&gt; :
 &lt;ul&gt;
 &lt;li&gt;le &lt;a href=&quot;https://www.afpy.org/posts/emplois&quot;&gt;job board de l&apos;AFPy&lt;/a&gt; (&lt;em&gt;Association Francophone Python&lt;/em&gt;)&lt;/li&gt;
 &lt;li&gt;le &lt;a href=&quot;https://www.python.org/jobs/&quot;&gt;job board de la PSF&lt;/a&gt; (&lt;em&gt;Python Software Foundation&lt;/em&gt;)&lt;/li&gt;
 &lt;li&gt;le &lt;a href=&quot;http://pythonjobs.github.io/&quot;&gt;Free Python Job Board&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;les job boards français &lt;strong&gt;généralistes&lt;/strong&gt; :&lt;/p&gt;
+&lt;li&gt;les job boards français &lt;strong&gt;généralistes&lt;/strong&gt; :
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://remixjobs.com/Emploi-python&quot;&gt;RemixJobs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://jobs.humancoders.com/&quot;&gt;Human Coders&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.chooseyourboss.com&quot;&gt;Choose Your Boss&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;les sites &lt;strong&gt;internationaux&lt;/strong&gt; :&lt;/p&gt;
+&lt;li&gt;les sites &lt;strong&gt;internationaux&lt;/strong&gt; :
 &lt;ul&gt;
 &lt;li&gt;le thread mensuel &lt;a href=&quot;https://hn.algolia.com/?query=%22Ask%20HN:%20who%20is%20hiring%22&amp;#x26;sort=byDate&amp;#x26;prefix=false&amp;#x26;page=0&amp;#x26;dateRange=all&amp;#x26;type=story&quot;&gt;Who is Hiring?&lt;/a&gt; sur Hacker News&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;&lt;a href=&quot;http://careers.stackoverflow.com/cities/paris&quot;&gt;Stack Overflow Careers&lt;/a&gt;&lt;/del&gt;&lt;/li&gt;
@@ -339,15 +333,13 @@ support suivant :&lt;/p&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/job/home&quot;&gt;LinkedIn Jobs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;si c&apos;est pour faire du &lt;strong&gt;Django&lt;/strong&gt; :&lt;/p&gt;
+&lt;li&gt;si c&apos;est pour faire du &lt;strong&gt;Django&lt;/strong&gt; :
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://djangogigs.com/&quot;&gt;Django Gigs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;&lt;a href=&quot;http://www.djangojobs.org/&quot;&gt;Django Jobs&lt;/a&gt;&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;si vous êtes une &lt;strong&gt;startup&lt;/strong&gt; :&lt;/p&gt;
+&lt;li&gt;si vous êtes une &lt;strong&gt;startup&lt;/strong&gt; :
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://twitter.com/frstartupjobs&quot;&gt;@frstartupjobs&lt;/a&gt; sur Twitter&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://angel.co/recruiting&quot;&gt;AngelList Jobs&lt;/a&gt;&lt;/li&gt;
@@ -357,22 +349,19 @@ support suivant :&lt;/p&gt;
 &lt;li&gt;le &lt;a href=&quot;https://jobs.stationf.co/search?q=Python&quot;&gt;job board de Station F&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;si vous utilisez des &lt;strong&gt;logiciels libres&lt;/strong&gt; :&lt;/p&gt;
+&lt;li&gt;si vous utilisez des &lt;strong&gt;logiciels libres&lt;/strong&gt; :
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://fr.lolix.org/search/offre/date.php&quot;&gt;Lolix&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;si vous êtes ouverts au &lt;strong&gt;télétravail&lt;/strong&gt; :&lt;/p&gt;
+&lt;li&gt;si vous êtes ouverts au &lt;strong&gt;télétravail&lt;/strong&gt; :
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://remoteok.io/remote-python-jobs&quot;&gt;Remote OK&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://jobs.remotive.io/&quot;&gt;Remotive&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://weworkremotely.com/&quot;&gt;We work remotely&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;enfin, si vous êtes une &lt;strong&gt;licorne&lt;/strong&gt; :&lt;/p&gt;
+&lt;li&gt;enfin, si vous êtes une &lt;strong&gt;licorne&lt;/strong&gt; :
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://unicornhunt.io/&quot;&gt;UnicornHunt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -386,7 +375,7 @@ support suivant :&lt;/p&gt;
     &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; fabtools
     &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; fabtools &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; require
 
-    @task
+    &lt;span class=&quot;token decorator annotation punctuation&quot;&gt;@task&lt;/span&gt;
     &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;postgresql&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
         &lt;span class=&quot;token triple-quoted-string string&quot;&gt;&quot;&quot;&quot;
         Install the latest stable PostgreSQL version on Debian/Ubuntu
@@ -421,13 +410,13 @@ support suivant :&lt;/p&gt;
 &lt;h3&gt;Yahoo!&lt;/h3&gt;
 &lt;p&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/phploveme/2983906948/&quot; title=&quot;Yahoo Logo (Jinho.Jung on Flickr)&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3005/2983906948_60ef69aa1c_t.jpg&quot; width=&quot;100&quot; height=&quot;61&quot; alt=&quot;Yahoo Logo&quot; style=&quot;float: right; margin: 0 0.5em 2em 1em; box-shadow: 1px 1px 2px #777&quot;&gt;&lt;/a&gt;
-&lt;b&gt;David Filo&lt;/b&gt; et &lt;b&gt;Jerry Yang&lt;/b&gt;, deux doctorants de Stanford, cr&amp;#xE9;ent d&amp;#xE9;but 1994 une page web pour partager leurs bookmarks (essentiellement des liens en rapport avec leur th&amp;#xE8;me de recherche, au d&amp;#xE9;part).&lt;/p&gt;
+&lt;b&gt;David Filo&lt;/b&gt; et &lt;b&gt;Jerry Yang&lt;/b&gt;, deux doctorants de Stanford, créent début 1994 une page web pour partager leurs bookmarks (essentiellement des liens en rapport avec leur thème de recherche, au départ).&lt;/p&gt;
 &lt;p&gt;Cette page devient populaire auprès de leurs collègues, qui leur envoient leurs liens préférés. Boule de neige, et ils finissent par passer plus de temps à maintenir cette liste de sites qu’à bosser sur leur recherche.&lt;/p&gt;
 &lt;p&gt;La société sera introduite en bourse dès 1996, après avoir reçu des investissements de Sequoia Capital l’année précédente.&lt;/p&gt;
 &lt;h3&gt;Google&lt;/h3&gt;
 &lt;p&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/tigerpixel/3185410319/&quot; title=&quot;Google Favicon (Tiger Pixel on Flickr)&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3504/3185410319_419a368b35_t.jpg&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;New Google Favicon High Resolution&quot; style=&quot;float: right; margin: 0 0.5em 2em 1em; box-shadow: 1px 1px 2px #777&quot;&gt;&lt;/a&gt;
-&lt;b&gt;Larry Page&lt;/b&gt; et &lt;b&gt;Sergei Brin&lt;/b&gt;, encore deux doctorants de Stanford, travaillent sur les biblioth&amp;#xE8;ques &amp;#xE9;lectroniques et l&amp;#x2019;indexation du web. Ils mettent au point un nouvel algorithme pour classer les r&amp;#xE9;sultats de recherche selon leur pertinence, &amp;#xE9;valu&amp;#xE9;e en fonction des liens venant d&amp;#x2019;autres pages. Tout comme un article scientifique sera jug&amp;#xE9; important s&amp;#x2019;il est beaucoup cit&amp;#xE9;, une page vers laquelle beaucoup d&amp;#x2019;autres pages &amp;#xE9;tablissent un lien sera jug&amp;#xE9;e comme faisant r&amp;#xE9;f&amp;#xE9;rence.&lt;/p&gt;
+&lt;b&gt;Larry Page&lt;/b&gt; et &lt;b&gt;Sergei Brin&lt;/b&gt;, encore deux doctorants de Stanford, travaillent sur les bibliothèques électroniques et l’indexation du web. Ils mettent au point un nouvel algorithme pour classer les résultats de recherche selon leur pertinence, évaluée en fonction des liens venant d’autres pages. Tout comme un article scientifique sera jugé important s’il est beaucoup cité, une page vers laquelle beaucoup d’autres pages établissent un lien sera jugée comme faisant référence.&lt;/p&gt;
 &lt;p&gt;L’université de Stanford dépose un brevet, et essaie de céder une licence de la technologie aux principaux moteurs de recherche de l’époque, dont &lt;b&gt;Yahoo!&lt;/b&gt;. Mais ceux-ci sont occupés à transformer leurs sites en « portails », dans lesquels le moteur de recherche ne serait plus qu’un service parmi d’autres, jugé non stratégique (car au lieu de maintenir l’internaute sur le portail, il l’aide à aller voir ailleurs !).&lt;/p&gt;
 &lt;p&gt;En désespoir de cause, Page et Brin, qui veulent voir leur technologie réellement exploitée, se résolvent à créer leur entreprise.&lt;/p&gt;
 &lt;p&gt;Tout comme le &lt;a href=&quot;../histoire-de-la-silicon-valley-4/&quot;&gt;PARC&lt;/a&gt;, Google bénéficiera d’un contexte favorable en terme de ressources humaines. L’éclatement de la bulle en 2001 remet sur le marché un grand nombre d’ingénieurs talentueux, à des prix très raisonnables.&lt;/p&gt;
@@ -435,7 +424,7 @@ support suivant :&lt;/p&gt;
 &lt;em&gt;Crédits images : &lt;a href=&quot;http://www.flickr.com/people/phploveme/&quot;&gt;Jinho Jung&lt;/a&gt; et &lt;a href=&quot;http://www.flickr.com/people/tigerpixel/&quot;&gt;Tiger Pixel&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Xerox et le PARC]]></title><description><![CDATA[(Cet article est le 4e d'une série sur l'histoire de la Silicon Valley.)]]></description><link>https://ronan.amicel.net/articles/histoire-de-la-silicon-valley-4/</link><guid isPermaLink="false">https://ronan.amicel.net/articles/histoire-de-la-silicon-valley-4/</guid><pubDate>Thu, 17 Mar 2011 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;(Cet article est le 4&lt;sup&gt;e&lt;/sup&gt; d&apos;une série sur l&apos;&lt;a href=&quot;../histoire-de-la-silicon-valley-1/&quot;&gt;histoire de la Silicon Valley&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/samkinsley/2651255287/&quot; title=&quot;Palo Alto Research Center (samkinsley on Flickr)&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3072/2651255287_8395819dab_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Palo Alto Research Center&quot; style=&quot;float: right; margin: 0 0.5em 2em 1em; box-shadow: 1px 1px 2px #777&quot;&gt;&lt;/a&gt;
-En 1969, &lt;b&gt;Xerox&lt;/b&gt; est une soci&amp;#xE9;t&amp;#xE9; florissante, gr&amp;#xE2;ce au d&amp;#xE9;veloppement du march&amp;#xE9; des photocopieurs.&lt;/p&gt;
+En 1969, &lt;b&gt;Xerox&lt;/b&gt; est une société florissante, grâce au développement du marché des photocopieurs.&lt;/p&gt;
 &lt;p&gt;Loin de se reposer sur ses lauriers, le PDG voulait anticiper les évolutions des besoins de ses clients et donc de son métier.&lt;/p&gt;
 &lt;p&gt;Pour donner corps à sa vision, il demande au responsable de la R&amp;D de créer un nouveau centre de recherche, qui sera installé à &lt;b&gt;Palo Alto&lt;/b&gt;.&lt;/p&gt;
 &lt;p style=&quot;clear: both&quot;&gt;En 1970, le gouvernement diminuait les crédits de recherche dirigés vers l’informatique, ce qui a permis à Xerox de recruter bon nombre des meilleurs chercheurs du domaine.&lt;/p&gt;
@@ -445,12 +434,12 @@ En 1969, &lt;b&gt;Xerox&lt;/b&gt; est une soci&amp;#xE9;t&amp;#xE9; florissante,
 &lt;em&gt;Crédits photo : &lt;a href=&quot;http://www.flickr.com/people/samkinsley/&quot;&gt;samkinsley&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hewlett, Packard et le mythe du garage]]></title><description><![CDATA[(Cet article est le 3e d'une série sur l'histoire de la Silicon Valley.)]]></description><link>https://ronan.amicel.net/articles/histoire-de-la-silicon-valley-3/</link><guid isPermaLink="false">https://ronan.amicel.net/articles/histoire-de-la-silicon-valley-3/</guid><pubDate>Wed, 16 Mar 2011 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;(Cet article est le 3&lt;sup&gt;e&lt;/sup&gt; d&apos;une série sur l&apos;&lt;a href=&quot;../histoire-de-la-silicon-valley-1/&quot;&gt;histoire de la Silicon Valley&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a title=&quot;Hewlett Packard garage - where Silicon Valley started (Fredrik Wass on Flickr)&quot; href=&quot;http://www.flickr.com/photos/bisonblog/3283309238/&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3467/3283309238_2807d31816_m.jpg&quot; width=&quot;240&quot; height=&quot;161&quot; alt=&quot;Hewlett Packard garage - where Silicon Valley started&quot; style=&quot;float: right; margin: 0 0.5em 2em 1em; box-shadow: 1px 1px 2px #777&quot;&gt;&lt;/a&gt;
-&lt;b&gt;Bill Hewlett&lt;/b&gt; et &lt;b&gt;Dave Packard&lt;/b&gt; &amp;#xE9;taient &amp;#xE9;tudiants &amp;#xE0; Stanford, et ont &amp;#xE9;t&amp;#xE9; dipl&amp;#xF4;m&amp;#xE9;s en 1934. Ils ont eu l&amp;#x2019;id&amp;#xE9;e d&amp;#x2019;un nouvel oscilloscope, en ont parl&amp;#xE9; &amp;#xE0; leur ancien professeur, le fameux &lt;b&gt;Frederick Terman&lt;/b&gt; (voir la &lt;a href=&quot;../histoire-de-la-silicon-valley-1/&quot;&gt;premi&amp;#xE8;re partie&lt;/a&gt;), qui les a encourag&amp;#xE9;s &amp;#xE0; cr&amp;#xE9;er leur soci&amp;#xE9;t&amp;#xE9;.&lt;/p&gt;
+&lt;b&gt;Bill Hewlett&lt;/b&gt; et &lt;b&gt;Dave Packard&lt;/b&gt; étaient étudiants à Stanford, et ont été diplômés en 1934. Ils ont eu l’idée d’un nouvel oscilloscope, en ont parlé à leur ancien professeur, le fameux &lt;b&gt;Frederick Terman&lt;/b&gt; (voir la &lt;a href=&quot;../histoire-de-la-silicon-valley-1/&quot;&gt;première partie&lt;/a&gt;), qui les a encouragés à créer leur société.&lt;/p&gt;
 &lt;p&gt;Avec un capital de 1 000 dollars, ils ont démarré dans leur garage à Palo Alto…&lt;/p&gt;
 &lt;p style=&quot;clear:both&quot;&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/mathoov/515334369/&quot; title=&quot;Apple Garage (Mathieu Thouvenin on Flickr)&quot;&gt;&lt;img src=&quot;http://farm1.static.flickr.com/193/515334369_e9b611014b_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;Apple Garage&quot; style=&quot;float: left; margin: 0 1em 2em 0.5em; box-shadow: 1px 1px 2px #777&quot;&gt;&lt;/a&gt;
-Dans les ann&amp;#xE9;es 1970, Hewlett-Packard est devenu une tr&amp;#xE8;s grande soci&amp;#xE9;t&amp;#xE9;. Un de ses employ&amp;#xE9;s, &lt;b&gt;Steve Wozniak&lt;/b&gt;, r&amp;#xEA;ve de r&amp;#xE9;aliser un micro-ordinateur, mais le projet n&amp;#x2019;est pas jug&amp;#xE9; int&amp;#xE9;ressant par HP, qui lui laisse les droits sur son invention.&lt;/p&gt;
-&lt;p&gt;C&amp;#x2019;est avec son ami &lt;b&gt;Steve Jobs&lt;/b&gt;, dans le garage de ce dernier, qu&amp;#x2019;ils d&amp;#xE9;marreront &lt;b&gt;Apple Computer&lt;/b&gt; en 1976.&lt;/p&gt;
+Dans les années 1970, Hewlett-Packard est devenu une très grande société. Un de ses employés, &lt;b&gt;Steve Wozniak&lt;/b&gt;, rêve de réaliser un micro-ordinateur, mais le projet n’est pas jugé intéressant par HP, qui lui laisse les droits sur son invention.&lt;/p&gt;
+&lt;p&gt;C’est avec son ami &lt;b&gt;Steve Jobs&lt;/b&gt;, dans le garage de ce dernier, qu’ils démarreront &lt;b&gt;Apple Computer&lt;/b&gt; en 1976.&lt;/p&gt;
 &lt;p style=&quot;clear:both&quot;&gt;&lt;em&gt;&lt;a href=&quot;../histoire-de-la-silicon-valley-4/&quot;&gt;Lire le 4&lt;sup&gt;e&lt;/sup&gt; épisode…&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p style=&quot;clear:both; text-align: right&quot;&gt;
 &lt;em&gt;Crédits photo : &lt;a href=&quot;http://www.flickr.com/people/bisonblog/&quot;&gt;Fredrik Wass&lt;/a&gt; et &lt;a href=&quot;http://www.flickr.com/photos/mathoov/&quot;&gt;Mathieu Thouvenin&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Shockley et les huit traîtres]]></title><description><![CDATA[(Cet article est le 2nd d'une série sur l'histoire de la Silicon Valley.)]]></description><link>https://ronan.amicel.net/articles/histoire-de-la-silicon-valley-2/</link><guid isPermaLink="false">https://ronan.amicel.net/articles/histoire-de-la-silicon-valley-2/</guid><pubDate>Mon, 14 Mar 2011 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;(Cet article est le 2&lt;sup&gt;nd&lt;/sup&gt; d&apos;une série sur l&apos;&lt;a href=&quot;http://ronanamicel.tumblr.com/post/3785406861/histoire-de-la-silicon-valley-1&quot;&gt;histoire de la Silicon Valley&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;&lt;/p&gt;
@@ -466,7 +455,7 @@ Dans les ann&amp;#xE9;es 1970, Hewlett-Packard est devenu une tr&amp;#xE8;s gran
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;../histoire-de-la-silicon-valley-3/&quot;&gt;Lire le 3&lt;sup&gt;e&lt;/sup&gt; épisode…&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Frederick Terman, Stanford, la guerre, l’espionnage et les radars]]></title><description><![CDATA[(Cet article est le 1er d'une série sur l’histoire de la Silicon Valley.) La Silicon Valley s’étend sur une zone d’environ 250 km2, entre…]]></description><link>https://ronan.amicel.net/articles/histoire-de-la-silicon-valley-1/</link><guid isPermaLink="false">https://ronan.amicel.net/articles/histoire-de-la-silicon-valley-1/</guid><pubDate>Fri, 11 Mar 2011 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;(Cet article est le 1&lt;sup&gt;er&lt;/sup&gt; d&apos;une série sur l’histoire de la Silicon Valley.)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;La &lt;strong&gt;Silicon Valley&lt;/strong&gt; s’étend sur une zone d’environ 250 km&lt;sup&gt;2&lt;/sup&gt;, entre les villes de Palo Alto et San José. Jusque dans les années 1940, l’agriculture était la principale activité économique de la région, surtout connue pour ses vergers.&lt;/p&gt;
 &lt;p&gt;C’est la &lt;strong&gt;seconde guerre mondiale&lt;/strong&gt; qui va changer la donne. L’effort de guerre mobilise toute la nation, y compris les universités, qui sont mises à contribution dans des projets de recherche appliquée (nucléaire, cryptographie, radars…) financés par le gouvernement fédéral.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.smecc.org/frederick_terman.htm&quot; title=&quot;Frederick Terman&quot;&gt;&lt;img src=&quot;https://78.media.tumblr.com/tumblr_lhwgpg5SmD1qc1mj0.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.smecc.org/frederick_terman.htm&quot; title=&quot;Frederick Terman&quot;&gt;&lt;img src=&quot;https://78.media.tumblr.com/tumblr_lhwgpg5SmD1qc1mj0.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Frederick Terman&lt;/strong&gt;, diplômé de Stanford, était parti au MIT dans les années 1920, où son directeur était Vannevar Bush (autre personnage intéressant). Pendant la guerre, Terman a dirigé un gros labo à Harvard qui travaillait sur le brouillage des radars ennemis.&lt;/p&gt;
 &lt;p&gt;Après la guerre, il retourne à Stanford comme &lt;strong&gt;doyen du département d’ingénierie&lt;/strong&gt;, et monte un labo de recherche appliquée dans le domaine des micro-ondes, de l’électronique et des radars. Si pendant la guerre, l’essentiel des fonds fédéraux sont allés à des universités de la côte Est, il est bien décidé à ce que ça change, et utilise ses relations pour attirer des financements à Stanford.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/mathoov/2415729786/&quot; title=&quot;Stanford University Campus&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3001/2415729786_55ea4bcccf_m.jpg&quot; alt=&quot;Stanford University Campus&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -475,9 +464,9 @@ Dans les ann&amp;#xE9;es 1970, Hewlett-Packard est devenu une tr&amp;#xE8;s gran
 &lt;p&gt;&lt;em&gt;Crédits photo : &lt;a href=&quot;http://www.smecc.org/frederick_terman.htm&quot;&gt;smecc.org&lt;/a&gt; et &lt;a href=&quot;http://www.flickr.com/people/mathoov/&quot;&gt;Mathieu Thouvenin&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Deleting messages from the Postfix queue]]></title><description><![CDATA[Sometimes, you have dozens of messages clogging your Postfix queue, all with the same bogus recipient. Here is how to delete them in a go…]]></description><link>https://ronan.amicel.net/articles/deleting-messages-from-the-postfix-queue/</link><guid isPermaLink="false">https://ronan.amicel.net/articles/deleting-messages-from-the-postfix-queue/</guid><pubDate>Fri, 28 Jan 2011 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Sometimes, you have dozens of messages clogging your Postfix queue, all with the same bogus recipient.&lt;/p&gt;
 &lt;p&gt;Here is how to delete them in a go, using the &lt;strong&gt;postsuper&lt;/strong&gt; command and some scripting magic (of course, you need to replace &lt;code class=&quot;language-text&quot;&gt;address@example.com&lt;/code&gt; with the desired recipient):&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;mailq &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;tail&lt;/span&gt; -n +2 &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;grep&lt;/span&gt; -v &lt;span class=&quot;token string&quot;&gt;&apos;^ *(&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;awk&lt;/span&gt;  &lt;span class=&quot;token string&quot;&gt;&apos;BEGIN { RS = &quot;&quot; }
-              # &lt;span class=&quot;token variable&quot;&gt;$7&lt;/span&gt;=sender, &lt;span class=&quot;token variable&quot;&gt;$8&lt;/span&gt;=recipient1, &lt;span class=&quot;token variable&quot;&gt;$9&lt;/span&gt;=recipient2
-              { if (&lt;span class=&quot;token variable&quot;&gt;$8&lt;/span&gt; == &quot;address@example.com&quot; &amp;amp;&amp;amp; &lt;span class=&quot;token variable&quot;&gt;$9&lt;/span&gt; == &quot;&quot;)
-                    print &lt;span class=&quot;token variable&quot;&gt;$1&lt;/span&gt; }
+              # $7=sender, $8=recipient1, $9=recipient2
+              { if ($8 == &quot;address@example.com&quot; &amp;amp;&amp;amp; $9 == &quot;&quot;)
+                    print $1 }
           &apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;tr&lt;/span&gt; -d &lt;span class=&quot;token string&quot;&gt;&apos;*!&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; postsuper -d -&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;(Adapted from the &lt;a href=&quot;http://www.postfix.org/postsuper.1.html&quot;&gt;postsuper man page&lt;/a&gt;.)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Enabling bash completions on Mac OS X]]></title><description><![CDATA[Mac OS X comes with bash as the default shell, but it does not include the very convenient completion functionality commonly available in…]]></description><link>https://ronan.amicel.net/articles/enabling-bash-completions-on-mac-os-x/</link><guid isPermaLink="false">https://ronan.amicel.net/articles/enabling-bash-completions-on-mac-os-x/</guid><pubDate>Sun, 23 Jan 2011 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Mac OS X comes with bash as the default shell, but it does not include the very convenient completion functionality commonly available in Linux distributions. So here are the steps to enable it.&lt;/p&gt;
 &lt;p&gt;First, you need to install the &lt;strong&gt;bash-completion&lt;/strong&gt; package using the great &lt;a href=&quot;http://mxcl.github.com/homebrew/&quot;&gt;Homebrew&lt;/a&gt; package manager:&lt;/p&gt;
@@ -485,7 +474,7 @@ Dans les ann&amp;#xE9;es 1970, Hewlett-Packard est devenu une tr&amp;#xE8;s gran
 &lt;p&gt;Then, enable the completions for the &lt;strong&gt;brew&lt;/strong&gt; command itself:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;ln&lt;/span&gt; -s &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;brew --prefix&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;&lt;/span&gt;/Library/Contributions/brew_bash_completion.sh &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;brew --prefix&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;&lt;/span&gt;/etc/bash_completion.d/&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Now, edit your &lt;strong&gt;~/.bash_profile&lt;/strong&gt; to add the following lines:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;USER_BASH_COMPLETION_DIR&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;~/.bash_completion.d
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;USER_BASH_COMPLETION_DIR&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=~&lt;/span&gt;/.bash_completion.d
 &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; -f &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;brew --prefix&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;&lt;/span&gt;/etc/bash_completion &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;then&lt;/span&gt;
     &lt;span class=&quot;token builtin class-name&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;brew --prefix&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;&lt;/span&gt;/etc/bash_completion
 &lt;span class=&quot;token keyword&quot;&gt;fi&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
