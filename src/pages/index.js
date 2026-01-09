@@ -4,10 +4,10 @@ import Layout from "../components/layout"
 
 const IndexPage = () => (
   <Layout>
-    <h1>Bonjour l’internet&nbsp;!</h1>
+    <h1>Bonjour l'internet&nbsp;!</h1>
     <p>Vous trouverez ici&nbsp;:</p>
     <ul>
-        <li>tous mes <Link to="/articles/">articles</Link> de blog (certains en français et d’autres en anglais)&nbsp;;</li>
+        <li>tous mes <Link to="/articles/">articles</Link> de blog (certains en français et d'autres en anglais)&nbsp;;</li>
         <li>des <Link to="/recettes/">recettes</Link> de cuisine&nbsp;;</li>
         <li>les liens pour me retrouver sur
             <a href="https://mamot.fr/@ronnix" title="Mastodon"><i className="icon-mastodon" alt="Mastodon" /></a>,
@@ -23,9 +23,18 @@ const IndexPage = () => (
         <li>une petite biographie&nbsp;;</li>
         <li>une liste de projets actuels et passés&nbsp;;</li>
         <li>une invitation à travailler ensemble&nbsp;;</li>
-        <li>et d’autres choses selon mon inspiration…</li>
+        <li>et d'autres choses selon mon inspiration…</li>
     </ul>
   </Layout>
 )
 
 export default IndexPage
+
+export const Head = () => (
+  <>
+    <title>Ronan Amicel</title>
+    <meta name="description" content="Site personnel de Ronan Amicel" />
+    <meta name="keywords" content="Ronan Amicel, home page, blog" />
+    <link rel="alternate" type="application/rss+xml" href="/rss.xml" />
+  </>
+)

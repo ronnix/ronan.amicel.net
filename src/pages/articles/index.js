@@ -6,7 +6,7 @@ import moment from 'moment';
 
 import { article, articles } from './index.module.css'
 
-export default ({
+const ArticlesPage = ({
   data: {
     allMarkdownRemark: { edges },
   },
@@ -30,9 +30,18 @@ export default ({
   </Layout>
 }
 
+export default ArticlesPage
+
+export const Head = () => (
+  <>
+    <title>Articles - Ronan Amicel</title>
+    <meta name="description" content="Articles de blog de Ronan Amicel" />
+  </>
+)
+
 export const query = graphql`
   {
-    allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
+    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       totalCount
       edges {
         node {

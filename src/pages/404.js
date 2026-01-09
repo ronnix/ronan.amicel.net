@@ -9,3 +9,9 @@ const NotFoundPage = () => (
 )
 
 export default NotFoundPage
+
+export const Head = () => (
+  <>
+    <title>Page non trouvée - Ronan Amicel</title>
+  </>
+)
