@@ -1,0 +1,17 @@
+"""Module containing custom exceptions for chat clients."""
+
+
+class WebSearchEmptyException(Exception):
+    """Exception raised when a web search returns no results."""
+
+    def __init__(self, message="Web search returned no results."):
+        self.message = message
+        super().__init__(self.message)
+
+
+class StreamCancelException(Exception):
+    """Exception raised when a streaming operation is cancelled."""
+
+    def __init__(self, message="Streaming operation was cancelled."):
+        self.message = message
+        super().__init__(self.message)

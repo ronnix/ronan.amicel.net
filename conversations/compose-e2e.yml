@@ -1,0 +1,32 @@
+services:
+
+  frontend:
+    user: "${DOCKER_USER:-1000}"
+    build: 
+      context: .
+      dockerfile: ./src/frontend/Dockerfile
+      target: frontend-production
+      args:
+        API_ORIGIN: "http://localhost:8071"
+    image: conversations:frontend-production
+    ports:
+      - "3000:3000"
+
+  openmockllm-mistral:
+    user: "${DOCKER_USER:-1000}"
+    build:
+      context: .
+      dockerfile: ./src/OpenMockLLM/Dockerfile
+    image: conversations:openmockllm-mistral
+    command:
+      - openmockllm
+      - --host
+      - "0.0.0.0"
+      - --port
+      - "8000"
+      - --backend
+      - mistral
+      - --model-name
+      - mistral-mock
+    ports:
+      - "8900:8000"

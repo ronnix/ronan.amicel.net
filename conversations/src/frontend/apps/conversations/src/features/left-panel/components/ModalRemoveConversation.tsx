@@ -1,0 +1,94 @@
+import { Button, Modal, ModalSize } from '@openfun/cunningham-react';
+import { t } from 'i18next';
+import { usePathname } from 'next/navigation';
+import { useRouter } from 'next/router';
+
+import { Box, Text, useToast } from '@/components';
+import { useRemoveConversation } from '@/features/chat/api/useRemoveConversation';
+import { ChatConversation } from '@/features/chat/types';
+
+interface ModalRemoveConversationProps {
+  onClose: () => void;
+  conversation: ChatConversation;
+}
+
+export const ModalRemoveConversation = ({
+  onClose,
+  conversation,
+}: ModalRemoveConversationProps) => {
+  const { showToast } = useToast();
+  const { push } = useRouter();
+  const pathname = usePathname();
+
+  const { mutate: removeDoc } = useRemoveConversation({
+    onSuccess: () => {
+      showToast(
+        'success',
+        t('The conversation has been deleted.'),
+        undefined,
+        4000,
+      );
+      if (pathname === '/') {
+        onClose();
+      } else {
+        void push('/');
+      }
+    },
+  });
+
+  return (
+    <Modal
+      isOpen
+      closeOnClickOutside
+      onClose={() => onClose()}
+      aria-label={t('Content modal to delete conversation')}
+      rightActions={
+        <>
+          <Button
+            aria-label={t('Close the modal')}
+            color="brand"
+            variant="bordered"
+            fullWidth
+            onClick={() => onClose()}
+          >
+            {t('Cancel')}
+          </Button>
+          <Button
+            aria-label={t('Confirm deletion')}
+            color="error"
+            variant="primary"
+            fullWidth
+            onClick={() =>
+              removeDoc({
+                conversationId: conversation.id,
+              })
+            }
+          >
+            {t('Delete')}
+          </Button>
+        </>
+      }
+      size={ModalSize.SMALL}
+      title={
+        <Text
+          $size="h6"
+          as="h6"
+          $margin={{ all: '0' }}
+          $align="flex-start"
+          $variation="1000"
+        >
+          {t('Delete a conversation')}
+        </Text>
+      }
+    >
+      <Box
+        className="--conversations--modal-remove-chat"
+        data-testid="delete-chat-confirm"
+      >
+        <Text $size="sm" $variation="600">
+          {t('Are you sure you want to delete this conversation ?')}
+        </Text>
+      </Box>
+    </Modal>
+  );
+};
