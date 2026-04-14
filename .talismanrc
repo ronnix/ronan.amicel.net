@@ -4,4 +4,6 @@ fileignoreconfig:
       - filecontent
   - filename: src/layouts/Layout.astro
     checksum: eba8d7a9230291167abca880574d5c694d812180e9ae4bbc04f478afb8c2c7e5
+  - filename: Makefile
+    checksum: de7d51d344be16f488a754ca704d4ab21cabd7d5cb71a3f517c9af20e12a2528
 version: "1.0"
