@@ -1,0 +1,39 @@
+---
+import Sidebar from '../components/Sidebar.astro'
+import '../styles/global.css'
+
+interface Props {
+  title?: string
+}
+
+const { title } = Astro.props
+const siteTitle = 'Ronan Amicel'
+const pageTitle = title ? `${title} | ${siteTitle}` : siteTitle
+---
+
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content="Site personnel de Ronan Amicel" />
+    <meta name="keywords" content="Ronan Amicel, home page, blog" />
+    <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="Ronan Amicel" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400;700&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="layout">
+      <div>
+        <div class="sidebar">
+          <Sidebar />
+        </div>
+        <div class="main">
+          <slot />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

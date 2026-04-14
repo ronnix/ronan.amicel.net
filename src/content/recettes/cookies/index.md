@@ -32,7 +32,7 @@ Laisser cuire chaque plaque 10 à 14 minutes (ça va plus vite en chaleur tourna
 
 Laisser refroidir sur une grille avant de déguster.
 
-![De délicieux cookies en train de refroidir](./2019-05-26-cookies.jpg)
+![De délicieux cookies en train de refroidir](./cookies.jpg)
 
 Différences par rapport à la recette « standard » :
 

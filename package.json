@@ -1,47 +1,22 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "ronan-amicel-net",
+  "description": "Site personnel de Ronan Amicel",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "dependencies": {
-    "gatsby": "^4.13.0",
-    "gatsby-link": "^4.13.0",
-    "gatsby-plugin-feed": "^4.13.0",
-    "gatsby-plugin-react-helmet": "^5.13.0",
-    "gatsby-plugin-sharp": "^4.13.0",
-    "gatsby-plugin-typography": "^4.13.0",
-    "gatsby-remark-images": "^6.13.0",
-    "gatsby-remark-prismjs": "^6.13.0",
-    "gatsby-source-filesystem": "^4.13.0",
-    "gatsby-transformer-remark": "^5.13.0",
-    "prismjs": "^1.17.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
-    "react-helmet": "^6.1.0",
-    "react-typography": "^0.16.19",
-    "sharp": "^0.30.4",
-    "typography": "^0.16.19",
-    "typography-theme-moraga": "^0.16.19"
-  },
-  "keywords": [
-    "gatsby"
-  ],
+  "author": "Ronan Amicel",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "deploy": "gatsby build && gh-pages -d public",
-    "format": "prettier --write 'src/**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "deploy": "astro build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.11",
+    "astro": "^5.7.10",
+    "remark-smartypants": "^3.0.2"
   },
   "devDependencies": {
-    "gatsby-cli": "^4.13.0",
-    "gh-pages": "^3.2.3",
-    "ink": "^3.2.0",
-    "prettier": "^2.6.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "gh-pages": "^6.3.0",
+    "prettier": "^3.5.3"
   }
 }

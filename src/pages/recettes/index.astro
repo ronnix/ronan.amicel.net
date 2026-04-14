@@ -1,0 +1,86 @@
+---
+import { getCollection } from 'astro:content'
+import Layout from '../../layouts/Layout.astro'
+
+const recettes = await getCollection('recettes')
+const sorted = recettes.sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+)
+
+function formatDate(dateStr: string): string {
+  return new Date(dateStr + 'T00:00:00').toLocaleDateString('fr-FR', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  })
+}
+
+function getLink(entry: (typeof sorted)[0]): string {
+  if (entry.data.path) return entry.data.path
+  return `/recettes/${entry.slug}/`
+}
+
+function getExcerpt(body: string | undefined): string {
+  if (!body) return ''
+  return body
+    .replace(/```[\s\S]*?```/g, '')    // strip fenced code blocks
+    .replace(/<[^>]*>/g, '')           // strip HTML tags
+    .replace(/!?\[([^\]]*)\]\([^)]*\)/g, '$1') // strip markdown links/images
+    .replace(/^#{1,6}\s+/gm, '')       // strip heading markers
+    .replace(/[*_`~]/g, '')            // strip inline formatting
+    .replace(/^>\s?/gm, '')            // strip blockquotes
+    .replace(/^[-+*]\s+/gm, '')        // strip list markers
+    .replace(/^\d+\.\s+/gm, '')        // strip ordered list markers
+    .split('\n')
+    .map(l => l.trim())
+    .filter(l => l)
+    .join(' ')
+    .replace(/\s+/g, ' ')
+    .slice(0, 140)
+}
+---
+
+<Layout title="Recettes">
+  <div class="articles">
+    {sorted.map((entry) => (
+      <div class="article">
+        <time datetime={entry.data.date}>
+          {formatDate(entry.data.date)}
+        </time>
+        <h3><a href={getLink(entry)}>{entry.data.title}</a></h3>
+        <p>{getExcerpt(entry.body)}…</p>
+        <a href={getLink(entry)}>Lire la suite...</a>
+      </div>
+    ))}
+  </div>
+</Layout>
+
+<style>
+  .article {
+    margin-bottom: 1.5rem;
+  }
+
+  .article time {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: #777;
+  }
+
+  .article h3 {
+    margin: 0.25rem 0 0.75rem 0;
+  }
+
+  .article h3 a {
+    color: inherit;
+  }
+
+  .article a:hover {
+    text-decoration: none;
+    color: #2a6496;
+    border-bottom: 1px solid #2a6496;
+  }
+
+  .article p {
+    margin: 0 0 0.75rem 0;
+  }
+</style>

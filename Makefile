@@ -2,15 +2,15 @@ install:
 	npm install
 
 dev:
-	node_modules/.bin/gatsby develop
+	npx astro dev
 
 build:
-	node_modules/.bin/gatsby build
+	npx astro build
 
-serve: build
-	node_modules/.bin/gatsby serve
+preview: build
+	npx astro preview
 
 deploy:
 	npm run deploy
 
-.PHONY: install dev build serve deploy
+.PHONY: install dev build preview deploy

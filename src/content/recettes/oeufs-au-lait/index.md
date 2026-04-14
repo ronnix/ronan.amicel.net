@@ -25,4 +25,4 @@ Je les place dans un bain marie avec de l’eau chauffée à 65°C, et je mets �
 
 Je prolonge jusqu’à 56-60 minutes. Ça a l’air bon. Je les sors et je les laisse refroidir à température ambiante. Plus tard je mets les couvercles et je les mets au frigo.
 
-![Œufs au lait sortant du four](./2019-06-30-oeufs-au-lait.jpg)
+![Œufs au lait sortant du four](./oeufs-au-lait.jpg)
